@@ -6,6 +6,8 @@
 所以，谢绝白嫖，杜绝白嫖。  
 联系笔者，有偿获取整个项目完整代码，以及笔者亲自所撰写的前端界面设计文档以及后台数据库设计文档。  
 +Q 3317770737 带着可接受的价格来。  
+## 项目结构
+![image](https://github.com/sqh4088/2023sqlDesign/blob/main/document/%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84%E5%B1%95%E7%A4%BA.png)  
 ## 项目运行展示
 笔者选择性展示些许运行界面，细节部分如错误信息提示窗口，可在display文件夹下查看  
 ### 登录界面  
@@ -36,7 +38,6 @@
 ![image](https://github.com/sqh4088/2023sqlDesign/blob/main/display/student/makeExam/%E8%AF%95%E5%8D%B7%E5%AF%BC%E5%87%BA%E7%95%8C%E9%9D%A2.png)  
 ## 文档内容展示
 后台数据库文档  
-![image]()  
-![image]()  
-![image]()  
-![image]()  
+![image](https://github.com/sqh4088/2023sqlDesign/blob/main/document/%E5%90%8E%E5%8F%B0%E6%96%87%E6%A1%A3.png)  
+前端界面文档  
+![image](https://github.com/sqh4088/2023sqlDesign/blob/main/document/%E5%89%8D%E7%AB%AF%E6%96%87%E6%A1%A3.png)  
